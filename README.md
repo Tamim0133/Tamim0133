@@ -46,7 +46,7 @@
 <br />
 
 ---
-[![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamim0133&show_icons=true&theme=radical)](https://github.com/tamim0133/github-readme-stats)
+[![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamim0133&show_icons=true)](https://github.com/tamim0133/github-readme-stats)
 
 
 ### 📺 Latest YouTube Videos
