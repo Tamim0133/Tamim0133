@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Tamim Dewan Jihad aka'  [Tamim Dj][website] 👋 
 
-[![Website](https://img.shields.io/website?label=tamim0133.github.io/my-portfolio/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=tamim0133.github.io/my-portfolio/&style=for-the-badge&url=https://tamim0133.github.io/my-portfolio/)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zihad_tamim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zihad_tamim)
 
 ## I'm a Student, Learner, Developer, and Teacher!!
@@ -70,7 +70,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://tamim0133.github.io/my-portfolio/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
