@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Tamim Dewan Jihad aka'  [Tamim Dj][website] 👋 
 
-[![Website](https://img.shields.io/website?label=tamim0133.github.io/my-portfolio/&style=for-the-badge&url=https://tamim0133.github.io/my-portfolio/)]((https://tamim0133.github.io/my-portfolio/))
+[![Website](https://img.shields.io/website?label=tamim0133.github.io/my-portfolio/&style=for-the-badge)]((https://tamim0133.github.io/my-portfolio/))
 [![Twitter Follow](https://img.shields.io/twitter/follow/zihad_tamim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/zihad_tamim)
 
 ## I'm a Student, Learner, Developer, and Teacher!!
